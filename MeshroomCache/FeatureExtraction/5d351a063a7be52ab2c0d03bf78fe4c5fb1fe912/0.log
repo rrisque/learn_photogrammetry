@@ -1,0 +1,44 @@
+Program called with the following parameters:
+ * describerPreset = "normal"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * input = "/home/r/Code/photogrammetry/sample/MeshroomCache/CameraInit/9e46135b2f0917101854b9f7af234ccbe5e02fce/cameraInit.sfm"
+ * maxThreads = 0 (default)
+ * output = "/home/r/Code/photogrammetry/sample/MeshroomCache/FeatureExtraction/5d351a063a7be52ab2c0d03bf78fe4c5fb1fe912"
+ * rangeSize = 40
+ * rangeStart = 0
+ * verboseLevel = "info"
+
+[10:37:34.196068][warning] Could not determine number of CUDA cards in this system
+[10:37:34.181204][warning] No CUDA-Enabled GPU.
+[10:37:34.199055][error] cudaGetDeviceCount failed: unknown error
+[10:37:34.199066][info] Can't find CUDA-Enabled GPU.
+[10:37:34.548447][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3475.JPG' [cpu]
+[10:37:34.574807][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3482.JPG' [cpu]
+[10:37:34.575622][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3474.JPG' [cpu]
+[10:37:34.576396][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3477.JPG' [cpu]
+[10:37:34.616915][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3480.JPG' [cpu]
+[10:37:34.619181][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3472.JPG' [cpu]
+[10:37:34.620674][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3481.JPG' [cpu]
+[10:37:34.623334][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3485.JPG' [cpu]
+[10:37:34.624527][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3476.JPG' [cpu]
+[10:37:34.624839][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3484.JPG' [cpu]
+[10:37:34.651693][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3478.JPG' [cpu]
+[10:37:34.691684][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3473.JPG' [cpu]
+[10:37:34.723650][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3479.JPG' [cpu]
+[10:37:34.723650][info] Extracting sift features from view '/home/r/Downloads/testset-ga/IMG_3483.JPG' [cpu]
+[10:37:38.444581][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3483.JPG'
+[10:37:38.564445][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3484.JPG'
+[10:37:38.643887][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3476.JPG'
+[10:37:38.667367][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3479.JPG'
+[10:37:38.680012][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3473.JPG'
+[10:37:38.699046][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3477.JPG'
+[10:37:38.721271][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3474.JPG'
+[10:37:38.745010][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3485.JPG'
+[10:37:38.768466][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3481.JPG'
+[10:37:38.788448][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3478.JPG'
+[10:37:38.821800][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3472.JPG'
+[10:37:38.867416][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3480.JPG'
+[10:37:38.879080][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3475.JPG'
+[10:37:38.942915][info]       10000 sift features extracted from view '/home/r/Downloads/testset-ga/IMG_3482.JPG'
+[10:37:38.942987][info] Task done in (s): 4.743000

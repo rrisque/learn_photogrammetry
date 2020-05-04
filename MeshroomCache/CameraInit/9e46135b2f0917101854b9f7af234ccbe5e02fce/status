@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "CameraInit_1",
+    "nodeType": "CameraInit",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_cameraInit  --sensorDatabase \"/usr/share/meshroom-bin/aliceVision/share/aliceVision/cameraSensors.db\" --defaultFieldOfView 45.0 --groupCameraFallback folder --verboseLevel info --output \"/home/r/Code/photogrammetry/sample/MeshroomCache/CameraInit/9e46135b2f0917101854b9f7af234ccbe5e02fce/cameraInit.sfm\" --allowSingleView 1  --input \"/home/r/Code/photogrammetry/sample/MeshroomCache/CameraInit/9e46135b2f0917101854b9f7af234ccbe5e02fce//viewpoints.sfm\"",
+    "env": null,
+    "startDateTime": "2020-05-04 10:37:34.089306",
+    "endDateTime": "2020-05-04 10:37:34.145176",
+    "elapsedTime": 0.0558772087097168,
+    "hostname": "ribs-arch",
+    "sessionUid": "a7b3d4f0-8e14-11ea-91f2-e0d55ee4444b",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:00.055877"
+}

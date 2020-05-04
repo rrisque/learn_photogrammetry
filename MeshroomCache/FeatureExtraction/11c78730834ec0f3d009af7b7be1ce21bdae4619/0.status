@@ -1,0 +1,18 @@
+{
+    "status": "SUCCESS",
+    "execMode": "LOCAL",
+    "nodeName": "FeatureExtraction_1",
+    "nodeType": "FeatureExtraction",
+    "packageName": "aliceVision",
+    "packageVersion": null,
+    "graph": "",
+    "commandLine": "aliceVision_featureExtraction  --input \"/home/r/Code/photogrammetry/sample/MeshroomCache/CameraInit/f16879fc5870d2425077487b0863d05b359980c9/cameraInit.sfm\" --describerTypes sift --describerPreset normal --forceCpuExtraction True --verboseLevel info --output \"/home/r/Code/photogrammetry/sample/MeshroomCache/FeatureExtraction/11c78730834ec0f3d009af7b7be1ce21bdae4619\" --rangeStart 0 --rangeSize 40",
+    "env": null,
+    "startDateTime": "2020-05-04 11:28:27.061266",
+    "endDateTime": "2020-05-04 11:28:32.465433",
+    "elapsedTime": 5.404196739196777,
+    "hostname": "ribs-arch",
+    "sessionUid": "a7b3d4f0-8e14-11ea-91f2-e0d55ee4444b",
+    "returnCode": 0,
+    "elapsedTimeStr": "0:00:05.404197"
+}

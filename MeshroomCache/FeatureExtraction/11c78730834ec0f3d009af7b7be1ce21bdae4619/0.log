@@ -1,0 +1,44 @@
+Program called with the following parameters:
+ * describerPreset = "normal"
+ * describerTypes = "sift"
+ * forceCpuExtraction = 1
+ * input = "/home/r/Code/photogrammetry/sample/MeshroomCache/CameraInit/f16879fc5870d2425077487b0863d05b359980c9/cameraInit.sfm"
+ * maxThreads = 0 (default)
+ * output = "/home/r/Code/photogrammetry/sample/MeshroomCache/FeatureExtraction/11c78730834ec0f3d009af7b7be1ce21bdae4619"
+ * rangeSize = 40
+ * rangeStart = 0
+ * verboseLevel = "info"
+
+[11:28:27.111507][warning] Could not determine number of CUDA cards in this system
+[11:28:27.104126][warning] No CUDA-Enabled GPU.
+[11:28:27.117069][error] cudaGetDeviceCount failed: unknown error
+[11:28:27.117089][info] Can't find CUDA-Enabled GPU.
+[11:28:27.386730][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3478.JPG' [cpu]
+[11:28:27.396190][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3476.JPG' [cpu]
+[11:28:27.407808][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3483.JPG' [cpu]
+[11:28:27.422664][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3474.JPG' [cpu]
+[11:28:27.438516][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3481.JPG' [cpu]
+[11:28:27.460399][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3477.JPG' [cpu]
+[11:28:27.460609][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3485.JPG' [cpu]
+[11:28:27.462820][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3482.JPG' [cpu]
+[11:28:27.496637][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3473.JPG' [cpu]
+[11:28:27.532325][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3472.JPG' [cpu]
+[11:28:27.547336][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3479.JPG' [cpu]
+[11:28:30.242166][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3483.JPG'
+[11:28:30.365657][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3476.JPG'
+[11:28:30.393736][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3481.JPG'
+[11:28:30.681134][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3473.JPG'
+[11:28:30.702221][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3485.JPG'
+[11:28:30.722889][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3480.JPG' [cpu]
+[11:28:30.812975][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3477.JPG'
+[11:28:30.827374][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3482.JPG'
+[11:28:30.844184][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3474.JPG'
+[11:28:30.861472][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3472.JPG'
+[11:28:30.880253][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3479.JPG'
+[11:28:30.907468][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3478.JPG'
+[11:28:30.950754][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3475.JPG' [cpu]
+[11:28:31.017207][info] Extracting sift features from view '/home/r/Code/photogrammetry/sample/images/IMG_3484.JPG' [cpu]
+[11:28:32.189234][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3480.JPG'
+[11:28:32.351409][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3475.JPG'
+[11:28:32.438063][info]       10000 sift features extracted from view '/home/r/Code/photogrammetry/sample/images/IMG_3484.JPG'
+[11:28:32.438123][info] Task done in (s): 5.321000
